@@ -5,6 +5,7 @@ import Banner from './Components/Banner';
 import Movies from './Components/Movies';
 import Favourites from './Components/Favourites';
 import {BrowserRouter as Router, Switch, Route} from 'react-router-dom'
+//try change
 
 function App() {
   return (
